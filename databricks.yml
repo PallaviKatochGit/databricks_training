@@ -18,7 +18,7 @@ targets:
 resources:
   jobs:
     my_scheduled_job:
-      name: demo-job_<Name>
+      name: demo-job
       tasks:
         - task_key: run_notebook
           notebook_task:
