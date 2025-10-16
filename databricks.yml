@@ -4,15 +4,15 @@ bundle:
 targets:
   qa:
     workspace:
-      host: https://dbc-04e6cd29-ab20.cloud.databricks.com/
+      host: https://dbc-04e6cd29-ab20.cloud.databricks.com
       root_path: /Workspace/Shared/asset_bundles1
   dev:
     workspace:
-      host: https://dbc-c49fc419-0c6d.cloud.databricks.com/
+      host: https://dbc-c49fc419-0c6d.cloud.databricks.com
       root_path: /Workspace/Shared/asset_bundles1
   prod:
     workspace:
-      host: https://dbc-c49fc419-0c6d.cloud.databricks.com/
+      host: https://dbc-c49fc419-0c6d.cloud.databricks.com
       root_path: /Workspace/Shared/asset_bundles1
  
 resources:
